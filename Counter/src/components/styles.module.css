@@ -1,0 +1,35 @@
+.red{
+    color: red;
+    border: 2px solid orange;
+    background-color: rgb(203, 169, 169);
+    width: 200px;
+    margin: auto;
+    margin-top: 50px;
+    margin-bottom: 30px;
+    border-radius: 5px;
+}
+.green{
+    color: green;
+    border: 1px solid green;
+    background-color: greenyellow;
+    width: 200px;
+    margin: auto;
+    margin-top: 50px;
+    margin-bottom: 30px;
+    border-radius: 5px;
+}
+button{
+    width: 100px;
+    margin-right: 10px;
+    height: 30px;
+    font-size: 15px;
+    font-weight: bolder;
+    background-color: white;
+    border-top: 2px solid red;
+    border-right: 2px solid red;
+    border-bottom: 3px solid green;
+    border-left: 3px solid green;
+}
+/* button:nth-child(1){
+    border: 2px solid red;
+} */
