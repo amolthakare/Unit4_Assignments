@@ -1,0 +1,48 @@
+.App-header {
+  background-color: #282c34;
+  height: 50px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: white;
+}
+
+.first {
+  margin-top: 30px;
+}
+
+.second {
+  border: 1px solid black;
+  width: 700px;
+  margin: auto;
+  padding: 25px;
+  margin-bottom: 20px;
+}
+
+.third {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 30px;
+}
+
+.third img {
+  width: 60px;
+  height: 75px;
+}
+
+.second p {
+  font-size: 20px;
+}
+
+.second button {
+  background-color: black;
+  color: white;
+  border: 0px;
+  padding: 10px 20px;
+  font-size: 18px;
+}
+
+.second button:hover {
+  background-color: rgb(43, 40, 40);
+}
