@@ -1,0 +1,122 @@
+[
+    {
+        "image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/xofljpukrkkbftsjospa",
+        "name": "Chaitanya Parathas",
+        "category": [
+            "North India",
+            "Punjabi",
+            "Chinese",
+            "Combo",
+            "Beverages"
+        ],
+        "rating": "4.5",
+        "deliveryTiming": "33 min",
+        "costForTwo": "150",
+        "offer": "40% off | Use TRYNEW"
+    },
+    {
+        "image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/o33xbe9g5w2x7jwrymv6",
+        "name": "MH 27 Pav Bhaji",
+        "category": [
+            "Snacks",
+            "Pavbhaji",
+            "Beverages",
+            "Steet Food",
+            "Chinese"
+        ],
+        "rating": "4.1",
+        "deliveryTiming": "25 min",
+        "costForTwo": "100",
+        "offer": "20% off | Use TRYNEW"
+    },
+    {
+        "image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/fto8afa1miaockbgyx8m",
+        "name": "Food On Call",
+        "category": [
+            "Snacks",
+            "Pizza",
+            "Beverages",
+            "Steet Food",
+            "Combo"
+        ],
+        "rating": "4.0",
+        "deliveryTiming": "25 min",
+        "costForTwo": "360",
+        "offer": "12% off | Use TRYNEW"
+    },
+    {
+        "image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/nm3fc2rnynrehacjq84h",
+        "name": "Camp Biryani",
+        "category": [
+            "Snacks",
+            "Pizza",
+            "Beverages",
+            "Steet Food",
+            "Combo"
+        ],
+        "rating": "4.3",
+        "deliveryTiming": "25 min",
+        "costForTwo": "170",
+        "offer": "15% off | Use TRYNEW"
+    },
+    {
+        "image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/tvxbzlii4usczhbpqkmn",
+        "name": "Cafe Eatalious",
+        "category": [
+            "Snacks",
+            "Pizza",
+            "Beverages",
+            "Italian",
+            "Burger"
+        ],
+        "rating": "4.5",
+        "deliveryTiming": "25 min",
+        "costForTwo": "250",
+        "offer": "26% off | Use TRYNEW"
+    },
+    {
+        "image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/lxde3hbkdq73frqspzbz",
+        "name": "Friends Adda",
+        "category": [
+            "Snacks",
+            "Pizza",
+            "Beverages",
+            "Steet Food",
+            "Combo"
+        ],
+        "rating": "4.1",
+        "deliveryTiming": "34 min",
+        "costForTwo": "300",
+        "offer": "20% off | Use TRYNEW"
+    },
+    {
+        "image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/jwlw1kxpaaqbdkq2ymzd",
+        "name": "Kanhaiya Kunj",
+        "category": [
+            "Sounth Indian",
+            "Pizza",
+            "Beverages",
+            "Family Restraurent",
+            "Combo"
+        ],
+        "rating": "3.9",
+        "deliveryTiming": "25 min",
+        "costForTwo": "180",
+        "offer": "30% off | Use TRYNEW"
+    },
+    {
+        "image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/bagnqcsjtrowukwnlvyc",
+        "name": "The Meal Box",
+        "category": [
+            "Indian",
+            "Continental",
+            "Beverages",
+            "Thali",
+            "Combo"
+        ],
+        "rating": "4.0",
+        "deliveryTiming": "20 min",
+        "costForTwo": "600",
+        "offer": "28% off | Use TRYNEW"
+    }
+]
