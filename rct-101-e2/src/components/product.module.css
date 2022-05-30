@@ -1,0 +1,26 @@
+.prod{
+    width: 80%;
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    margin: auto;
+    gap: 10px;
+}
+.jus{
+    justify-content: space-between;
+    color: teal;
+    text-transform: uppercase;
+}
+.jus p:nth-child(2){
+    width: 70px;
+    text-align: center;
+    background-color: rgb(145, 236, 236)
+}
+.jus p:nth-child(1){
+    width: 70px;
+}
+.ww{
+    text-align: center;
+}
+.q{
+    color: teal;
+}
