@@ -1,0 +1,28 @@
+{
+ "products": [
+    {
+        "name" : "Redmi Note 10T",
+        "image":"https://m.media-amazon.com/images/I/81a6LD49zsL._AC_UL480_QL65_.jpg",
+        "price": 30000,
+        "id" : 0
+    },
+    {
+        "name" : "Watch",
+        "image":"https://m.media-amazon.com/images/I/61NvfzX+qSL._AC_UL480_FMwebp_QL65_.jpg",
+        "price" : 2699,
+        "id" : 1
+    },
+    {
+        "name" : "Dennis Lingo",
+        "image":"https://m.media-amazon.com/images/I/618Wek95laS._AC_UL480_FMwebp_QL65_.jpg",
+        "price" : 500,
+        "id" : 2
+    },
+    {
+        "name" : "Red Chief",
+        "image":"https://m.media-amazon.com/images/I/31A7JFtYW7L._AC_UL480_FMwebp_QL65_.jpg",
+        "price" : 1599,
+        "id" : 3
+    }
+]
+}
